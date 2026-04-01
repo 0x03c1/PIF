@@ -1,3 +1,8 @@
+/**
+ * Script: atv4.c desenvolvido por Juliano
+ * CESAR 2026.1 – PIF
+ * **/ 
+
 #include <stdio.h>
 
 typedef struct
